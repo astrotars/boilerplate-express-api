@@ -1,0 +1,28 @@
+{
+	"name": "api",
+	"version": "0.1.2",
+	"description": "Boilerplate Express API",
+	"engines": {
+		"node": "10.x"
+	},
+	"scripts": {
+		"start": "cd dist && node server.js",
+		"watch": "babel-watch src/server.js",
+		"build": "./build.sh"
+	},
+	"dependencies": {
+		"bcrypt": "^3.0.0",
+		"body-parser": "^1.18.3",
+		"chalk": "^2.4.1",
+		"compression": "^1.7.3",
+		"cors": "^2.8.4",
+		"ejs": "^2.6.1",
+		"express": "^4.16.3"
+	},
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-cli": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"babel-watch": "^2.0.7"
+	}
+}
