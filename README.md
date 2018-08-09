@@ -1,6 +1,6 @@
-# Boilerplate Express API
+# Boilerplate Express API (REST)
 
-🔋Boilerplate Express API w/ Support for ES6 Features
+🔋Boilerplate Express API (REST) w/ Support for ES6 Features
 
 ## Getting Started
 
