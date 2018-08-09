@@ -1,6 +1,6 @@
 {
 	"name": "boilerplate-express-api",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "Boilerplate Express API",
 	"engines": {
 		"node": "10.x"
