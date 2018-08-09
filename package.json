@@ -1,5 +1,5 @@
 {
-	"name": "api",
+	"name": "boilerplate-express-api",
 	"version": "0.1.2",
 	"description": "Boilerplate Express API",
 	"engines": {
