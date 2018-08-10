@@ -10,12 +10,7 @@
 		"watch": "babel-watch src/server.js",
 		"build": "./build.sh"
 	},
-	"keywords": [
-		"api",
-		"boilerplate",
-		"express",
-		"es6"
-	],
+	"keywords": ["api", "boilerplate", "express", "es6"],
 	"dependencies": {
 		"bcrypt": "^3.0.0",
 		"body-parser": "^1.18.3",
