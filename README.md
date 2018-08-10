@@ -19,4 +19,9 @@ All code lives in the `/src` directory. To build the API, run `yarn build` from 
 ## Running the API
 To run the API, use `yarn start` from the root of the directory. The API will spin up on port `3000` and provide you with feedback in the terminal.
 
+## Docker Support
+To build a Docker image and launch it, all you have to do is run `./Docker.sh`. Note: Make sure to run `yarn build` prior to building your Docker image.
+
+**Happy Coding!**
+
 
