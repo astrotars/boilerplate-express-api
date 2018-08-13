@@ -22,6 +22,9 @@ To run the API, use `yarn start` from the root of the directory. The API will sp
 ## Docker Support
 To build a Docker image and launch it, all you have to do is run `./Docker.sh`. Note: Make sure to run `yarn build` prior to building your Docker image.
 
+## Blog Posts
+Coming Soon!
+
 **Happy Coding!**
 
 
