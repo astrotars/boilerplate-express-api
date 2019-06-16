@@ -555,11 +555,12 @@ babel-types@^6.19.0, babel-types@^6.24.1, babel-types@^6.26.0:
     to-fast-properties "^1.0.3"
 
 babel-watch@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/babel-watch/-/babel-watch-2.0.7.tgz#584ad2af245ba96f88721213a9563631ba8fae48"
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/babel-watch/-/babel-watch-2.0.8.tgz#7e5cb2cbc82113e087dc4441c22c476c79f8299c"
   dependencies:
     chokidar "^1.4.3"
     commander "^2.9.0"
+    lodash.debounce "^4.0.8"
     source-map-support "^0.4.0"
 
 babylon@^6.18.0:
@@ -1175,6 +1176,10 @@ kind-of@^3.0.2:
 kind-of@^6.0.0:
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
+
+lodash.debounce@^4.0.8:
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
 
 lodash@^4.17.4:
   version "4.17.10"
