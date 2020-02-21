@@ -12,7 +12,7 @@
 	},
 	"keywords": ["api", "boilerplate", "express", "es6"],
 	"dependencies": {
-		"bcrypt": "^3.0.0",
+		"bcrypt": "^4.0.0",
 		"body-parser": "^1.18.3",
 		"chalk": "^2.4.1",
 		"compression": "^1.7.3",
