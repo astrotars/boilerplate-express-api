@@ -797,9 +797,9 @@ ee-first@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
 
-ejs@^2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
+ejs@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/ejs/-/ejs-3.0.2.tgz#745b01cdcfe38c1c6a2da3bbb2d9957060a31226"
 
 electron-to-chromium@^1.3.47:
   version "1.3.55"
